@@ -13,10 +13,8 @@ Please complete the follow check-list by their due dates.
 [ ] Submit basic calculator project [Due: 11:59PM, June 10th]  
 
 ## Recitation Tasks
-[ ] Create LinkedIn Profile  
-[ ] Create Leetcode Profile  
-[ ] Create Hackerrank Profile  
 [ ] Create Github Page  
+[ ] Add bio
 
 
 
