@@ -1,55 +1,55 @@
 # Intro to C++ — Student Introduction Survey
 
-*Welcome! Please take a few minutes to fill this out. Your responses help your instructor get to know you and tailor the course to your needs.*
+_Welcome! Please take a few minutes to fill this out. Your responses help your instructor get to know you and tailor the course to your needs._
 
 ---
 
 ## Section 1: About You
 
-1. What is your full name: Syeda 
+1. What is your full name: Abid Sarker
 2. What is your major/Minor (or intended major): Computer Science
-3. Favorite snack: Cheesecake
-4. Hobby/Favorite Pass time: Toxic Video Games
+3. Favorite snack: Mangos
+4. Hobby/Favorite Pass time: Playing volleyball
 
 ---
 
 ## Section 2: Programming Experience
 
-5. Have you written code before in any language: 
-6. If yes, which languages have you used? *(e.g., Python, Java, Scratch, etc.)*:
+5. Have you written code before in any language: Yes
+6. If yes, which languages have you used? _(e.g., Python, Java, Scratch, etc.)_: Javascript and Python
 7. How would you describe your overall programming experience so far?:
    - [ ] No experience at all
-   - [ ] A little (one course or self-taught basics)
+   - [-] A little (one course or self-taught basics)
    - [ ] Some (a few projects or courses)
    - [ ] Quite a bit (multiple languages or projects)
-8. Have you written any C++ code before:
-9. Are you retaking this course or is this your first time:
-10. Do you enjoy coding? Do you enjoy CS so far? Why or why not: 
+8. Have you written any C++ code before: Yes I have, I have written code in Javascript and python.
+9. Are you retaking this course or is this your first time: I am retaking the course
+10. Do you enjoy coding? Do you enjoy CS so far? Why or why not: I am enjoying coding so far, it challenges my brain and when I complete something it feels accomplishing.
 
 ---
 
 ## Section 3: Comfort with CS Concepts
 
-Rate your comfort level with each of the following *(1 = Never heard of it, 5 = Very comfortable)*:
+Rate your comfort level with each of the following _(1 = Never heard of it, 5 = Very comfortable)_:
 
-| Variables & data types: 
-| Loops (for, while): 
-| Conditionals (if/else):
-| Functions / methods: 
-| Arrays / lists: 
-| Memory & pointers: 
-| Object-oriented programming: 
+| Variables & data types: 4
+| Loops (for, while): 4
+| Conditionals (if/else): 4
+| Functions / methods: 3
+| Arrays / lists: 2
+| Memory & pointers: 1
+| Object-oriented programming: 1
 
 ---
 
 ## Section 4: Goals & Expectations
 
-10. What do you hope to get out of this course:
-11. Is there anything specific about C++ or programming you're excited to learn:
-12. What are you most nervous or uncertain about going into this course:
-13. How do you prefer to learn when something is difficult? *(e.g., watching videos, reading, asking questions, working with others, etc.)*:
-14. Is there anything else you'd like your instructor to know about you:
+10. What do you hope to get out of this course: I hope to learn more about functions and get my basics completely down.
+11. Is there anything specific about C++ or programming you're excited to learn: I am excited to learn about functions and arrays.
+12. What are you most nervous or uncertain about going into this course: I am most nervous about the course being too fast pasted or my attendance being bad.
+13. How do you prefer to learn when something is difficult? _(e.g., watching videos, reading, asking questions, working with others, etc.)_: I prefer to learn something by watching videos or working with others.
+14. Is there anything else you'd like your instructor to know about you: I may look like I am goofing around but most of the time I am paying attention and trying.
 
 ---
 
-*Thank you for filling this out! I look forward to getting to know you.*
+_Thank you for filling this out! I look forward to getting to know you._
